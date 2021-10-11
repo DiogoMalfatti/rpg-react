@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rpg-react/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/rpg-react/static/js/main.bc3966c5.chunk.js",
-    "main.js.map": "/rpg-react/static/js/main.bc3966c5.chunk.js.map",
+    "main.js": "/rpg-react/static/js/main.c91287e0.chunk.js",
+    "main.js.map": "/rpg-react/static/js/main.c91287e0.chunk.js.map",
     "runtime-main.js": "/rpg-react/static/js/runtime-main.7aeded03.js",
     "runtime-main.js.map": "/rpg-react/static/js/runtime-main.7aeded03.js.map",
     "static/js/2.ed4ef458.chunk.js": "/rpg-react/static/js/2.ed4ef458.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7aeded03.js",
     "static/js/2.ed4ef458.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.bc3966c5.chunk.js"
+    "static/js/main.c91287e0.chunk.js"
   ]
 }
