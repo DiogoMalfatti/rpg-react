@@ -35,7 +35,7 @@ const Container = styled.div<{ size: number, left: number, top: number, sidePos:
   position: absolute;
   left: ${props => props.left}px;
   top: ${props => props.top}px;
-  background-image: url('/assets/char.png');
+  background-image: url('https://raw.githubusercontent.com/DiogoMalfatti/rpg-react/main/public/assets/char.png');
   background-position: 0px ${props => props.sidePos}px;
 ` 
 

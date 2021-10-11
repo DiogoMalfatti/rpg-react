@@ -9,7 +9,7 @@ export const Container = styled.div`
 export const Map = styled.div`
   width: 480px;
   height: 480px;
-  background-image: url('/assets/map.png');
+  background-image: url('https://raw.githubusercontent.com/DiogoMalfatti/rpg-react/main/public/assets/map.png');
   background-position: left top;
   background-size: 100%;
 `
